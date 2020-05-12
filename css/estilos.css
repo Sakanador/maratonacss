@@ -1,0 +1,27 @@
+﻿body {
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1xiMBmuc3q_fvgfgShZDggHaEK%26pid%3DApi&f=1');
+  font-family: times new roman;
+  height: 100vn;
+}
+.menu{
+background-color: white;
+}
+.menu li{
+list-style: none;
+}
+.menu ul {
+display: flex;
+justify-content:space-evenly;
+}
+a {
+color: teal;
+text-decoration: none;
+
+}
+a:hover {
+text-decoration: underline;
+}
+.site-tittle, .site-subtittle {
+color: blue;
+text-align: center;
+}
